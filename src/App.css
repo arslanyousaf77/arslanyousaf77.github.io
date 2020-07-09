@@ -1,0 +1,19 @@
+.logo{
+
+  position: relative;
+  height: 50px;
+  padding-left: 35px;
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  }
+
+  .nav-items{
+    font-size: larger;
+  }
+
+  .navbrand-name{
+    margin-top: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+

@@ -1,0 +1,12 @@
+.item-distance{
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.sticky{
+    position: -webkit-sticky; /* for safari */
+    position: sticky;
+    width: 200px;
+    float: left;
+    top: 10px;
+ }
